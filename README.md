@@ -4,7 +4,7 @@
 
 **1.  Установка Node.js: Скачай и установи его ([скачать](https://nodejs.org/en/download))**
 
-**2.  Установка Visual Studio Code: Скачай и установи его [клик](https://code.visualstudio.com/)**
+**2.  Установка Visual Studio Code: Скачай и установи его ([скачать](https://code.visualstudio.com/))**
 
 **4.  Создай отдельную папку проекта: Открой Visual Studio Code и перетащи папку проекта в него**
 
