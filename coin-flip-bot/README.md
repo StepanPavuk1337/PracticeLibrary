@@ -65,7 +65,7 @@ bot.launch().then(() => {
 
 **[Math.floor()](https://doka.guide/js/math-floor/) — округляет число вниз**
 
-**Math.floor(Math.random() * 2) — получаем случайно 0 или 1**
+**[Math.floor(Math.random() * 2)](https://doka.guide/js/math-floor/) — получаем случайно 0 или 1**
 
 **Условие ? значение_если_да : значение_если_нет — это [тернарный оператор](https://doka.guide/js/ternary-operator/), короткая замена if/else**
 
