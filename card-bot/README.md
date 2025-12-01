@@ -19,7 +19,6 @@
 
 1.  **Установи зависимости (вводи их в терминал по очереди)**
     ```bash
-    npm install
     npm install telegraf
     npm install dotenv
     ```
