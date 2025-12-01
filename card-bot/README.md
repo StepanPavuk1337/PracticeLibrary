@@ -19,7 +19,7 @@
     npm install telegraf
     ```
 2.  **Получи токен** у [@BotFather](https://t.me/BotFather), как описано в [инструкции](https://github.com/StepanPavuk1337/PracticeLibrary?tab=readme-ov-file#%E2%80%8D-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-%D0%B1%D0%BE%D1%82%D0%B0)
-3.  **Вставь свой токен в ковычках вместо текста `ТВОЙ_ТОКЕН_ЗДЕСЬ` в файле `index.js` после знака равно**
+3.  **Вставь свой токен в файле `index.js` вместо текста `ТВОЙ_ТОКЕН_ЗДЕСЬ` после знака равно**
 
     ```bash
     Пример: `BOT_TOKEN = '8228522820:AAHZygjruYf8eNol-Pqk1DEwhgjFgiTZDhu'
